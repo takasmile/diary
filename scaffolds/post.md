@@ -1,5 +1,6 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+author: Alex Yan
+header-img: "img/post-default.jpg"
 ---
